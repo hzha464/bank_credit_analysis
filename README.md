@@ -28,19 +28,6 @@ This project involves analyzing credit data to predict the likelihood of individ
 - **Performance Improvement**: Achieved a 10% improvement in model performance with XGBoost compared to KNN, as measured by AUC.
 - **Feature Analysis**: Leveraged LIME and SHAP to gain insights into the factors most influencing the bank's decisions, identifying areas where users could improve to increase their chances of loan approval.
 
-## Getting Started
-
-### Prerequisites
-
-Ensure you have the following installed:
-- Python 3.x
-- XGBoost
-- Scikit-learn
-- Pandas
-- Matplotlib
-- LIME
-- SHAP
-
 
 ### Running the Project
 
